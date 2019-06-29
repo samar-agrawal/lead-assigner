@@ -1,0 +1,6 @@
+.*.swp
+*.log
+*.csv
+node_modules/
+build/
+dist/
